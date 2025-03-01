@@ -54,6 +54,5 @@ public class DbConn {
 		if(rs != null) { rs.close(); }
 		if(stmt != null) { stmt.close(); }
 		if(con != null) { con.close(); }
-		// test test test
 	}
 }
